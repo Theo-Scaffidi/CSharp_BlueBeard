@@ -1,0 +1,17 @@
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\bin\Debug\BlueBeardAPP.exe.config
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\bin\Debug\BlueBeardAPP.exe
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\bin\Debug\BlueBeardAPP.pdb
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\bin\Debug\MySql.Data.dll
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.csprojAssemblyReference.cache
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\MainWindow.g.cs
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\App.g.cs
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP_MarkupCompile.cache
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP_MarkupCompile.lref
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\MainWindow.baml
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.g.resources
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.Properties.Resources.resources
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.csproj.GenerateResource.cache
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.csproj.CoreCompileInputs.cache
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.csproj.CopyComplete
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.exe
+C:\C#\CSharp_BlueBeard\BlueBeardAPP\obj\Debug\BlueBeardAPP.pdb

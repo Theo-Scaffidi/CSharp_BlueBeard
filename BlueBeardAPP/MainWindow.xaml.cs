@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MySql.Data.MySqlClient;
 
 namespace BlueBeardAPP
 {
@@ -23,6 +24,16 @@ namespace BlueBeardAPP
         public MainWindow()
         {
             InitializeComponent();
+            MySqlConnection connexion = new MySqlConnection("database=MyDB; server=localhost; user id=root; pwd=");
+            try {
+                connexion.Open();
+                MessageBox.Show("Connecté");
+                connexion.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Non Connecté");
+            }
         }
     }
 }
